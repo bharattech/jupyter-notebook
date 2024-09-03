@@ -1,4 +1,4 @@
-# jamsocket-jupyter-notebook
+# jamsocket-jupyter-notebook tf
 Base repo for running Jupyter Notebooks on the Jamsocket platform
 
 ## Deploying
